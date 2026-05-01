@@ -20,6 +20,14 @@
       "description": "Ergonomic wireless mouse with 8K DPI sensor, ultra-fast scrolling, and USB-C charging. The ultimate productivity tool for professionals.",
       "price": "$97.99",
       "affiliate_link": "https://www.amazon.com/dp/B09HM94VDS?tag=YOUR-ID-20"
-    }
+    },
+    {
+      "title": "Wireless Earbuds",
+      "badge": "🔥 Best Seller",
+      "rating": "4.5",
+      "reviews": "1200+",
+      "price": "$29",
+      "affiliate_link": "YOUR LINK"
+     }
   ]
 }

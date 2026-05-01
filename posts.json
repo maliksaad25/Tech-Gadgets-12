@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "title": "Anker 737 Power Bank (PowerCore 24K)",
+      "image": "https://m.media-amazon.com/images/I/61Hh0+rMxzL._AC_SX679_.jpg",
+      "description": "High-capacity 24,000mAh portable charger with 140W output, smart digital display, and rapid charging for laptops, tablets, and phones. Perfect for travel and work on the go.",
+      "price": "$99.99",
+      "affiliate_link": "https://www.amazon.com/dp/B0B5TQL2VD?tag=YOUR-ID-20"
+    },
+    {
+      "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+      "image": "https://m.media-amazon.com/images/I/61vJtKbAssL._AC_SX679_.jpg",
+      "description": "Industry-leading noise cancellation with 30-hour battery life, crystal-clear hands-free calling, and premium comfort for all-day wear.",
+      "price": "$348.00",
+      "affiliate_link": "https://www.amazon.com/dp/B09XS7JWHH?tag=YOUR-ID-20"
+    },
+    {
+      "title": "Logitech MX Master 3S Wireless Mouse",
+      "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SX679_.jpg",
+      "description": "Ergonomic wireless mouse with 8K DPI sensor, ultra-fast scrolling, and USB-C charging. The ultimate productivity tool for professionals.",
+      "price": "$97.99",
+      "affiliate_link": "https://www.amazon.com/dp/B09HM94VDS?tag=YOUR-ID-20"
+    }
+  ]
+}
